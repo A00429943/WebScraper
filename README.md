@@ -1,2 +1,5 @@
 # webscraper
-Automated Web Scraper
+Automated Web Scraper (using R and RSelenium)
+
+
+
